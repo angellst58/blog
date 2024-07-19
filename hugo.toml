@@ -48,9 +48,9 @@ theme = "hugo-blog-awesome"
     ordered = false # generates <ul> instead of <ol>
 
 [Languages.en-gb]
-  languageName = "English"
-  languageCode = "en-gb"
-  contentDir = "content/en"
+  languageName = "Spanish"
+  languageCode = "es"
+  contentDir = "content/es"
   weight = 1
 
   [Languages.en-gb.menu]
@@ -119,6 +119,4 @@ theme = "hugo-blog-awesome"
 name = "github"
 url = "https://github.com/angellst58"
 
-[[params.socialIcons]]
-name = "Rss"
-url = "/index.xml"
+
