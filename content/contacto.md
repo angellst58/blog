@@ -1,13 +1,10 @@
 ---
 title: "Contacto"
-date: 2024-07-20
+date: 2024-07-19T10:00:00Z
+draft: false
+layout: "contacto"  # Asegúrate de que el nombre del layout coincida si usas uno específico
 ---
 
-## Contacto
+# Contacto
 
-¡Gracias por visitar mi blog! Si tienes alguna pregunta o comentario, no dudes en contactarme a través de la siguiente información:
-
-- **Correo Electrónico:** [me@angellst58.me](mailto:me@angellst58.me)
-- **GitHub:** [angellst58](https://github.com/angellst58)
-
-¡Espero escuchar de ti pronto!
+Puedes contactarme a través del siguiente correo electrónico: [me@angellst58.me](mailto:me@angellst58.me)
