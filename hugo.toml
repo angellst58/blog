@@ -98,9 +98,9 @@ theme = "hugo-blog-awesome"
 [Languages.en-gb.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "angellst58"
+  intro = "Soy Angel, este es mi pequeño blog."
   name = "Angel L."
-  description = "Solo un pequeño blog."
+  description = "Cristiano, GNU/Linux y FOSS entusiasta, y Biblia."
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
