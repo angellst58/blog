@@ -1,5 +1,5 @@
-title = "Blog Hugo Asombroso"
-baseURL = 'https://hba.sid.one/'
+title = "angellst58 blog"
+baseURL = 'https://angellst58.me/'
 
 languageCode = 'es-es'
 defaultContentLanguage = "es-es"
@@ -62,8 +62,8 @@ theme = "hugo-blog-awesome"
   [Languages.es-es.params.author]
     avatar = "avatar.jpg"
     intro = "angellst58"
-    name = "Sidharth R"
-    description = "Un tema rápido y minimalista de Hugo con soporte para modo claro y oscuro, para un sitio personal o blog."
+    name = "Angel L."
+    description = "Cristiano, GNU/Linux y FOSS entusiasta, desarrollador frontend."
 
   [Languages.es-es.params.webmanifest]
     name = "sitename"
@@ -78,12 +78,4 @@ theme = "hugo-blog-awesome"
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/hugo-sid"
-
-[[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com"
-
-[[params.socialIcons]]
-name = "Rss"
-url = "/index.xml"
+url = "https://github.com/angellst58"
