@@ -41,10 +41,10 @@ theme = "hugo-blog-awesome"
       name = 'Publicaciones'
       url = '/posts/'
       weight = 20
-    [[Languages.es-es.menu.main]]
-      pageRef="about"
-      name = 'Acerca de'
-      url = '/about/'
+[[Languages.es-es.menu.main]]
+  pageRef = "contacto"
+  name = 'Contacto'
+  url = '/contacto/'
       weight = 30
 
 [Languages.es-es.params]
