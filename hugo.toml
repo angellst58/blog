@@ -27,17 +27,17 @@ theme = "hugo-blog-awesome"
 [Languages.es-es]
   languageName = "Español"
   languageCode = "es-es"
-  contentDir = "content/posts"  # Directorio de contenido ajustado
+  contentDir = "content"  # El directorio de contenido estándar
   weight = 1
 
   [Languages.es-es.menu]
     [[Languages.es-es.menu.main]]
-      pageRef="/"
+      pageRef = "/"
       name = 'Inicio'
       url = '/'
       weight = 10
     [[Languages.es-es.menu.main]]
-      pageRef="posts"
+      pageRef = "posts"
       name = 'Publicaciones'
       url = '/posts/'
       weight = 20
@@ -45,7 +45,7 @@ theme = "hugo-blog-awesome"
       pageRef = "contacto"
       name = 'Contacto'
       url = '/contacto/'
-      weight = 30
+      weight = 40
 
 [Languages.es-es.params]
   sitename = "angellst58"
