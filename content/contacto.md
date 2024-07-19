@@ -31,7 +31,7 @@ Si prefieres, puedes rellenar el siguiente formulario para enviarme un mensaje d
 
 ---
 
-Si tienes algún problema con el formulario o prefieres contactarme por otro medio, no dudes en usar la información de contacto arriba.
+Si tienes algún problema con el formulario o prefieres contactarme por otro medio, no dudes en usar la información de contacto arriba. ¡Estoy deseando saber de ti!
 
 ---
 
