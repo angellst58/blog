@@ -1,4 +1,4 @@
-title = "angellst58"
+title = "Awesome Hugo blog"
 baseURL = 'https://hba.sid.one/'
 
 # This is what goes in <html lang="">
@@ -11,7 +11,7 @@ defaultContentLanguage = "en-gb"
 enableEmoji = true
 ignoreErrors = ["additional-script-loading-error"] # ignore error of loading additional scripts.
 
-# traditional way: theme component resides in directory 'themes' 
+# traditional way: theme component resides in directory 'themes'
 theme = "hugo-blog-awesome"
 
 # modern way: pull in theme component as hugo module
@@ -42,12 +42,11 @@ theme = "hugo-blog-awesome"
     noClasses = false
   [markup.goldmark.renderer]
     unsafe = true
-	[markup.tableOfContents]
-		startLevel = 2 # ToC starts from H2
-		endLevel = 4 # ToC ends at H4
-		ordered = false # generates <ul> instead of <ol>
+  [markup.tableOfContents]
+    startLevel = 2 # ToC starts from H2
+    endLevel = 4 # ToC ends at H4
+    ordered = false # generates <ul> instead of <ol>
 
-############################## English language ################################
 [Languages.en-gb]
   languageName = "English"
   languageCode = "en-gb"
@@ -112,7 +111,6 @@ theme = "hugo-blog-awesome"
   background_color = "#fff" # by default depend on "params.defaultColor" for "light" or "auto" will be set to "#fff" for dark will be "#131418" (color of dark mode background)
   display = "standalone"
 
-
 # Allow to override `browserconfig.xml` params (configuration for windows embedded browsers)
 [params.browserconfig]
   TileColor = "#2d89ef" # default windows 10 blue tile color
@@ -128,4 +126,3 @@ url = "https://twitter.com"
 [[params.socialIcons]]
 name = "Rss"
 url = "/index.xml"
-
