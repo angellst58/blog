@@ -76,6 +76,8 @@ theme = "hugo-blog-awesome"
 [params.browserconfig]
   TileColor = "#2d89ef"
 
+[params.clicky]
+  siteId = "101459466"
 
 [[params.socialIcons]]
 name = "github"
