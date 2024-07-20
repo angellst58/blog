@@ -7,5 +7,5 @@ layout: "contacto"  # Asegúrate de que el nombre del layout coincida si usas un
 
 # Contacto
 
-Puedes contactarme a través del siguiente correo electrónico: [me@angellst58.me](mailto:me@angellst58.me)
-                                            Telegram: @angellst58
+Puedes contactarme a través del siguiente correo electrónico: [me@angellst58.me](mailto:me@angellst58.me)  
+Telegram: [@angellst58](https://t.me/angellst58)
