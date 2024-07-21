@@ -12,7 +12,7 @@ theme = "hugo-blog-awesome"
     id = 'G-8XC4BR9C0W' # G-MEASUREMENT_ID
 
   [services.disqus]
-    shortname = ''
+    shortname = 'https-angellst58-me'
 
 [markup]
   [markup.highlight]
