@@ -13,10 +13,6 @@ theme = "hugo-blog-awesome"
   [services.googleAnalytics]
     id = 'G-8XC4BR9C0W' # G-MEASUREMENT_ID
 
-[services]
-  [services.googleAnalytics]
-    id = 'G-8XC4BR9C0W' # G-MEASUREMENT_ID
-
   [services.disqus]
     shortname = ''
 
