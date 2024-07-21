@@ -8,8 +8,6 @@ ignoreErrors = ["additional-script-loading-error"]
 theme = "hugo-blog-awesome"
 
 [services]
- To enable Google Analytics 4 (gtag.js) provide G-MEASUREMENT_ID below.
- To disable Google Analytics, simply leave the field empty or remove the next two lines
   [services.googleAnalytics]
     id = 'G-8XC4BR9C0W' # G-MEASUREMENT_ID
 
