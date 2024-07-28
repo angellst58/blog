@@ -1,5 +1,5 @@
 +++
-title = 'Carta a mis hijos no conocidos.'
+title = 'Carta a mis hijos que no conoci.'
 date = 2024-07-12T15:59:02-05:00
 draft= true
 +++
